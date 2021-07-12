@@ -1,4 +1,4 @@
-package br.com.cod3r.cm.modelo;
+package br.com.java.cm.modelo;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
